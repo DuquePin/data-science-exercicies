@@ -15,10 +15,26 @@ The project consists of two main components:
  
 This project bridges the gap between **machine learning development** and **user-friendly deployment**, enabling users to assess 
 credit risk efficiently.
+
+## Technologies Used
+This project leverages several Python libraries and tools, including:
+- pandas: efficiently handles and manipulates tabular data.
+- numpy: provides numerical operations and array handling.
+- re: used for handling and validating file extensions.
+- io: convert files into byte format for processing.
+- joblib: optimizes models serialization and deserialization.
+- pickle: loads and saves machine learning pipelines (.pkl files)
+- seaborn: creates attractive statistical plots.
+- matplotlib: generates various visualizations.
+- scikit-learn: provides tools for model training, evaluation, and preprocessing.
+- pycaret: simplifies the process of building, comparing and tuning machine learning models.
+- jupyter notebook: documents and showcases the end-to-end process of model building.
+- streamlit: develops an interactive web application for model deployment and evaluation.
+
+## Using the Application
+
+
 ## Use Case Video
 
-<video width="700" controls>
-  <source src="main/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/e4a6ed1b-77a3-4ca4-83e3-6951d4791acc
 
