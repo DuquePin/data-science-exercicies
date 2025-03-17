@@ -1,6 +1,6 @@
 # Credit Scoring Final Project
 This final project is part of the **Data Scientist Profession** course at **EBAC**. 
-The objective is  to develop a **machine learning classification model to
+The objective is  to develop a **machine learning classification model** to
 identify **clients with default** in a credit institution's database.
 ## Project Overview
 The project consists of two main components:
@@ -16,8 +16,9 @@ The project consists of two main components:
 This project bridges the gap between **machine learning development** and **user-friendly deployment**, enabling users to assess 
 credit risk efficiently.
 ## Use Case Video
+
 <video width="700" controls>
-  <source src="assets/demo.webm" type="main/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm">
+  <source src="main/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
