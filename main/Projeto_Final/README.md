@@ -16,8 +16,9 @@ The project consists of two main components:
 This project bridges the gap between **machine learning development** and **user-friendly deployment**, enabling users to assess 
 credit risk efficiently.
 ## Use Case Video
+
 <video width="700" controls>
-  <source src="assets/demo.webm" type="main/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm">
+  <source src="ain/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
