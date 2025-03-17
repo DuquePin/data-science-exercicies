@@ -18,7 +18,7 @@ credit risk efficiently.
 ## Use Case Video
 
 <video width="700" controls>
-  <source src="ain/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm" type="video/webm">
+  <source src="main/Projeto_Final/Video/streamlit-app-2025-03-17-19-03-18.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
