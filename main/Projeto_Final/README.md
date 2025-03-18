@@ -33,6 +33,9 @@ This project leverages several Python libraries and tools, including:
 
 ## Using the Application
 
+To use the application, ensure you have both a database and a pre-trained model ready for evaluation. Upload both files to visualize performance metrics effectively.
+
+[Link to Application](https://credit-scoring-model-nwx4.onrender.com)
 
 ## Use Case Video
 
